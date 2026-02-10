@@ -79,5 +79,5 @@ Dashboard 1: Customer Overview
 
 
 Dashboard 2: Transaction Analysis
-<img width="1920" height="1080" alt="Screenshot 2026-02-10 213031" src="https://github.com/user-attachments/assets/22e26d5e-e9a2-4272-a8f3-270f3a273b80" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-10 213723" src="https://github.com/user-attachments/assets/e9083f07-be31-4d45-8480-5d861523055c" />
 
