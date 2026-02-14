@@ -73,7 +73,8 @@ Credit Limit Adjustments: Utilize credit score data and transaction history to o
 
 🖼️ Dashboard Screenshots
 Dashboard 1: Customer Overview
-<img width="1920" height="1080" alt="Screenshot 2026-02-11 171443" src="https://github.com/user-attachments/assets/f02f00f5-25d4-4c78-979d-38f5af4a97af" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 132806" src="https://github.com/user-attachments/assets/621bfc5b-4b59-4b7c-96ca-cc3b20f3f464" />
+
 
 
 
@@ -81,7 +82,8 @@ Dashboard 1: Customer Overview
 
 
 Dashboard 2: Transaction Analysis
-<img width="1920" height="1080" alt="Screenshot 2026-02-11 171603" src="https://github.com/user-attachments/assets/5d440b40-aff0-4d67-a92a-2ef201a51059" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 132953" src="https://github.com/user-attachments/assets/0d0cb1aa-d841-4a63-8c46-ed25cb980a97" />
+
 
 
 
