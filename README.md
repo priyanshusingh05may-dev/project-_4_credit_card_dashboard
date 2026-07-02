@@ -1,8 +1,8 @@
-About the Project
+## About the Project
 This project involves the development of a comprehensive Power BI Analytics Dashboard  that provides real-time insights into credit card operations. The objective is to monitor key performance indicators (KPIs) related to customer demographics and transaction trends. By leveraging DAX calculations and interactive visualizations, the project enables stakeholders to make data-driven decisions regarding credit risk and revenue growth.
 
 
-🛠️ Problem Statement
+## Problem Statement
 Financial institutions often struggle to consolidate raw transaction and customer data into actionable insights. This project addresses the need for a dynamic reporting system that can:
 
 
@@ -14,7 +14,7 @@ Segment customer behavior across different demographics such as age, gender, and
 
 Identify spending patterns across various categories to optimize marketing strategies.
 
-📊 Project Objectives
+## Project Objectives
 
 Dashboard 1: Credit Card Customer Report – Focuses on customer segmentation, credit scores, and ownership status.
 
@@ -22,8 +22,7 @@ Dashboard 1: Credit Card Customer Report – Focuses on customer segmentation, c
 
 Dashboard 2: Credit Card Transaction Report – Focuses on spending patterns, transaction types, and weekly revenue trends.
 
-
-🧠 Key Insights
+## Key Insights
 Based on the analysis of the provided datasets, the following insights were derived:
 
 
@@ -41,7 +40,7 @@ Demographic Trends: Visualized how spending habits differ between Male and Femal
 Spending Categories: Identified which transaction categories (e.g., Bills, Entertainment, Fuel) contribute the most to total revenue.
 
 
-🚀 Technical Implementation (DAX & Features)
+## Technical Implementation (DAX & Features)
 The following technical requirements were implemented to enhance interactivity:
 
 
@@ -59,7 +58,7 @@ Calculated Columns for Age Group and Income Group.
 
 Interactivity: Implemented drill-throughs and dynamic filtering for a seamless user experience.
 
-💡 Recommendations
+##Recommendations
 
 Targeted Marketing: Focus promotional offers on the "High" income group and specific age brackets that show the highest transaction frequency.
 
